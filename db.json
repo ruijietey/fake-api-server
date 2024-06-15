@@ -11,17 +11,6 @@
       "tailwind",
       "svelte",
       "html"
-    ],
-    "avatar": [
-      {
-        "name": "Dolly.jpg",
-        "percent": 100,
-        "size": 40088,
-        "status": "done",
-        "type": "image/jpeg",
-        "uid": "rc-upload-1718438842744",
-        "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/731.jpg"
-      }
     ]
   },
   {
@@ -35,17 +24,6 @@
       "refine",
       ".net",
       "angular"
-    ],
-    "avatar": [
-      {
-        "name": "Arvel.jpg",
-        "percent": 100,
-        "size": 40088,
-        "status": "done",
-        "type": "image/jpeg",
-        "uid": "rc-upload-1718438842744",
-        "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1247.jpg"
-      }
     ]
   },
   {
@@ -59,17 +37,6 @@
       "swift",
       "react",
       "ember.js"
-    ],
-    "avatar": [
-      {
-        "name": "Randal.jpg",
-        "percent": 100,
-        "size": 40088,
-        "status": "done",
-        "type": "image/jpeg",
-        "uid": "rc-upload-1718438842744",
-        "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/376.jpg"
-      }
     ]
   },
   {
@@ -83,17 +50,6 @@
       "html",
       "javascript",
       "svelte"
-    ],
-    "avatar": [
-      {
-        "name": "Elizabeth.jpg",
-        "percent": 100,
-        "size": 40088,
-        "status": "done",
-        "type": "image/jpeg",
-        "uid": "rc-upload-1718438842744",
-        "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/746.jpg"
-      }
     ]
   },
   {
@@ -107,17 +63,6 @@
       "ember.js",
       "react",
       "css"
-    ],
-    "avatar": [
-      {
-        "name": "Felicity.jpg",
-        "percent": 100,
-        "size": 40088,
-        "status": "done",
-        "type": "image/jpeg",
-        "uid": "rc-upload-1718438842744",
-        "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/6.jpg"
-      }
     ]
   },
   {
@@ -131,17 +76,6 @@
       "css",
       "react",
       "javascript"
-    ],
-    "avatar": [
-      {
-        "name": "Ike.jpg",
-        "percent": 100,
-        "size": 40088,
-        "status": "done",
-        "type": "image/jpeg",
-        "uid": "rc-upload-1718438842744",
-        "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/9.jpg"
-      }
     ]
   },
   {
@@ -155,17 +89,6 @@
       "react",
       ".net",
       "postgresql"
-    ],
-    "avatar": [
-      {
-        "name": "Asa.jpg",
-        "percent": 100,
-        "size": 40088,
-        "status": "done",
-        "type": "image/jpeg",
-        "uid": "rc-upload-1718438842744",
-        "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/683.jpg"
-      }
     ]
   },
   {
@@ -179,17 +102,6 @@
       "svelte",
       "css",
       "ember.js"
-    ],
-    "avatar": [
-      {
-        "name": "Claudine.jpg",
-        "percent": 100,
-        "size": 40088,
-        "status": "done",
-        "type": "image/jpeg",
-        "uid": "rc-upload-1718438842744",
-        "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/463.jpg"
-      }
     ]
   },
   {
@@ -203,17 +115,6 @@
       "react",
       "swift",
       "angular"
-    ],
-    "avatar": [
-      {
-        "name": "Juana.jpg",
-        "percent": 100,
-        "size": 40088,
-        "status": "done",
-        "type": "image/jpeg",
-        "uid": "rc-upload-1718438842744",
-        "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/960.jpg"
-      }
     ]
   },
   {
@@ -227,17 +128,6 @@
       "postgresql",
       "refine",
       ".net"
-    ],
-    "avatar": [
-      {
-        "name": "Barry.jpg",
-        "percent": 100,
-        "size": 40088,
-        "status": "done",
-        "type": "image/jpeg",
-        "uid": "rc-upload-1718438842744",
-        "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1149.jpg"
-      }
     ]
   }
 ],
@@ -301,46 +191,6 @@
     },
     "status": "draft",
     "createdAt": "2022-10-08T13:57:23.998Z"
-  },
-  {
-    "id": 7,
-    "title": "Qui Aliquid Consequatur",
-    "content": "Ut quis ratione ea eum. Culpa sint et inventore ex. Cupiditate sit maiores neque eveniet doloribus ut. Est perspiciatis inventore tenetur et eos ut minima aut. Eos nemo ut quia aut. Aliquid rem voluptatem id nesciunt dolores. Et consectetur tempora quisquam ipsa voluptas est. Ducimus ipsam sed officiis quae. Nulla consequatur incidunt et et ducimus alias ullam vel qui. Quibusdam doloremque in.",
-    "category": {
-      "id": 7
-    },
-    "status": "rejected",
-    "createdAt": "2023-12-19T01:11:27.401Z"
-  },
-  {
-    "id": 8,
-    "title": "Amet Hic Quas",
-    "content": "Atque voluptates vitae voluptas blanditiis inventore. Est ducimus eum id. Distinctio ipsum sapiente ut ea. Ullam eos nihil saepe aut at itaque voluptatibus repellat delectus. Quae nulla natus cum tempore ea dolore nemo minus voluptatem. Repellendus voluptas animi sit dolorum architecto repellendus repudiandae. Tempora quisquam sint eos. Rerum ipsum rerum magnam occaecati quis corrupti ut quia quis. Ut qui quisquam dolores aut ut sit enim. Enim omnis necessitatibus explicabo et et vel aut reprehenderit sed.",
-    "category": {
-      "id": 10
-    },
-    "status": "rejected",
-    "createdAt": "2022-11-14T13:38:19.374Z"
-  },
-  {
-    "id": 9,
-    "title": "Vitae Laborum Numquam",
-    "content": "Sequi aliquam eveniet doloribus nobis veniam corrupti consequatur. Vitae numquam reprehenderit voluptas fugiat sunt accusantium explicabo. Accusamus et minima sunt aut. Esse est aspernatur et sunt nemo eos nam quam. Dolor natus numquam repellat sit. Sed reprehenderit illo quasi vel omnis. Vel amet et minima vero sed eos. Quis architecto doloribus ratione deleniti velit sunt ad reprehenderit. Facere reprehenderit neque. Deserunt neque maiores veritatis ad et beatae voluptatibus ad.",
-    "category": {
-      "id": 5
-    },
-    "status": "published",
-    "createdAt": "2023-11-17T15:05:23.966Z"
-  },
-  {
-    "id": 10,
-    "title": "Expedita Et Exercitationem",
-    "content": "Possimus occaecati dolorem hic omnis ad quos quis molestiae et. Aut in aut repudiandae accusamus eum autem illo ex sequi. Et ipsam fugiat voluptatem. Ea nesciunt qui aut error nihil recusandae non illum officiis. Ea velit est. Quos deserunt dignissimos sed natus impedit nisi. Ipsam eveniet ipsum ea ratione aliquid pariatur libero occaecati explicabo. Numquam doloremque quidem ut aut dolorem quo voluptatum debitis saepe. Eos et corrupti aut. Eos dolor accusamus ullam inventore et dicta aut corrupti.",
-    "category": {
-      "id": 4
-    },
-    "status": "rejected",
-    "createdAt": "2023-03-15T03:23:30.046Z"
   }
 ],
   "categories": [
