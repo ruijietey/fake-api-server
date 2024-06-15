@@ -7,11 +7,6 @@
     "email": "bianka_muller97@hotmail.com",
     "status": true,
     "birthday": "2023-11-29T21:43:04.850Z",
-    "skills": [
-      "tailwind",
-      "svelte",
-      "html"
-    ]
   }
 ],
   "blogPosts":[
@@ -34,16 +29,6 @@
     },
     "status": "draft",
     "createdAt": "2023-09-19T10:06:11.707Z"
-  }
-],
-  "categories": [
-  {
-    "id": 3,
-    "title": "Audio & Video"
-  },
-  {
-    "id": 4,
-    "title": "Gaming"
   }
 ]
 }
