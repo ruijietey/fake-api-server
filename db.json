@@ -12,45 +12,6 @@
       "svelte",
       "html"
     ]
-  },
-  {
-    "id": 2,
-    "firstName": "Arvel",
-    "lastName": "Rutherford",
-    "email": "jordi.kertzmann@yahoo.com",
-    "status": false,
-    "birthday": "2024-03-12T10:44:13.243Z",
-    "skills": [
-      "refine",
-      ".net",
-      "angular"
-    ]
-  },
-  {
-    "id": 3,
-    "firstName": "Randal",
-    "lastName": "Hilll",
-    "email": "nia_nolan@yahoo.com",
-    "status": false,
-    "birthday": "2024-01-15T08:50:31.917Z",
-    "skills": [
-      "swift",
-      "react",
-      "ember.js"
-    ]
-  },
-  {
-    "id": 4,
-    "firstName": "Elizabeth",
-    "lastName": "Daniel",
-    "email": "oceane_nienow78@yahoo.com",
-    "status": true,
-    "birthday": "2023-07-21T10:28:40.712Z",
-    "skills": [
-      "html",
-      "javascript",
-      "svelte"
-    ]
   }
 ],
   "blogPosts":[
@@ -73,16 +34,6 @@
     },
     "status": "draft",
     "createdAt": "2023-09-19T10:06:11.707Z"
-  },
-  {
-    "id": 3,
-    "title": "Eum Facere Itaque",
-    "content": "Nobis voluptas iusto fugit. Sit omnis eum. Cupiditate sed eos aperiam. Cumque maiores sit nemo a. Tempora facere odio ea veniam magni laudantium inventore velit sunt. Animi eveniet aliquid natus optio eos facilis. Iure voluptate dolore voluptate et aspernatur dolorem est et. Laudantium quas culpa deleniti magnam qui dolores consequatur consectetur. Enim id qui ex dolorum. Est error rerum qui voluptas atque.",
-    "category": {
-      "id": 3
-    },
-    "status": "rejected",
-    "createdAt": "2022-07-29T05:01:11.550Z"
   }
 ],
   "categories": [
