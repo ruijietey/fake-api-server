@@ -51,84 +51,6 @@
       "javascript",
       "svelte"
     ]
-  },
-  {
-    "id": 5,
-    "firstName": "Felicity",
-    "lastName": "DuBuque",
-    "email": "randall79@gmail.com",
-    "status": false,
-    "birthday": "2023-12-11T04:25:52.919Z",
-    "skills": [
-      "ember.js",
-      "react",
-      "css"
-    ]
-  },
-  {
-    "id": 6,
-    "firstName": "Ike",
-    "lastName": "Brown",
-    "email": "danielle.heaney51@hotmail.com",
-    "status": true,
-    "birthday": "2023-07-01T02:46:12.435Z",
-    "skills": [
-      "css",
-      "react",
-      "javascript"
-    ]
-  },
-  {
-    "id": 7,
-    "firstName": "Asa",
-    "lastName": "O'Reilly",
-    "email": "margaretta.upton91@yahoo.com",
-    "status": false,
-    "birthday": "2023-11-13T10:37:01.760Z",
-    "skills": [
-      "react",
-      ".net",
-      "postgresql"
-    ]
-  },
-  {
-    "id": 8,
-    "firstName": "Claudine",
-    "lastName": "Mueller",
-    "email": "camylle2@yahoo.com",
-    "status": true,
-    "birthday": "2023-10-21T08:42:42.172Z",
-    "skills": [
-      "svelte",
-      "css",
-      "ember.js"
-    ]
-  },
-  {
-    "id": 9,
-    "firstName": "Juana",
-    "lastName": "Hodkiewicz",
-    "email": "zola.rath@hotmail.com",
-    "status": true,
-    "birthday": "2023-11-17T12:41:49.453Z",
-    "skills": [
-      "react",
-      "swift",
-      "angular"
-    ]
-  },
-  {
-    "id": 10,
-    "firstName": "Barry",
-    "lastName": "Streich",
-    "email": "vergie_dickinson68@hotmail.com",
-    "status": false,
-    "birthday": "2024-04-09T16:16:31.234Z",
-    "skills": [
-      "postgresql",
-      "refine",
-      ".net"
-    ]
   }
 ],
   "blogPosts":[
@@ -161,36 +83,6 @@
     },
     "status": "rejected",
     "createdAt": "2022-07-29T05:01:11.550Z"
-  },
-  {
-    "id": 4,
-    "title": "Veniam Suscipit Dolorem",
-    "content": "Ut omnis rem quaerat aut dicta alias quo quo. Optio quaerat molestias aut quia odio incidunt ut. Explicabo est vel quia. Non vel ratione. Qui et ipsa beatae consequatur. Omnis molestiae quia tenetur explicabo commodi possimus facilis dolorum quaerat. Accusamus beatae cumque ab. Quia nesciunt deserunt ipsam debitis nemo fugiat earum voluptatem. Ut temporibus est tempore quasi. Soluta sint quo sunt dolores magnam et alias.",
-    "category": {
-      "id": 15
-    },
-    "status": "rejected",
-    "createdAt": "2023-12-05T02:43:06.882Z"
-  },
-  {
-    "id": 5,
-    "title": "Ex Exercitationem Excepturi",
-    "content": "Eligendi officiis nostrum et autem ullam sequi velit. Fugit quia expedita vero et animi quia. Similique ducimus accusamus. Beatae a harum est est suscipit quis sed. Voluptatum vel sint eum harum qui. Laborum sint incidunt sed. Nesciunt accusantium aut magni velit ad dolor qui tenetur ut. Deserunt exercitationem autem aliquid sit cumque ut molestiae est id. Aliquid quas autem eaque sit eum iusto nisi quod. Qui sit et possimus aspernatur hic nesciunt.",
-    "category": {
-      "id": 11
-    },
-    "status": "rejected",
-    "createdAt": "2023-12-14T04:45:11.610Z"
-  },
-  {
-    "id": 6,
-    "title": "Ut Neque Corrupti",
-    "content": "Exercitationem enim quidem vitae. Sint sunt autem optio quidem. Ea sapiente et exercitationem hic. Incidunt et quia ipsa maiores quis sint ipsa voluptatum. Et voluptatibus natus omnis neque. Aut doloremque quis nam impedit quia nam voluptas inventore. Et occaecati excepturi debitis harum et. Sed exercitationem consectetur maxime et possimus tempora. Id enim incidunt est qui rerum autem alias. Rerum rem quidem illo ab recusandae eos molestiae enim.",
-    "category": {
-      "id": 9
-    },
-    "status": "draft",
-    "createdAt": "2022-10-08T13:57:23.998Z"
   }
 ],
   "categories": [
@@ -201,34 +93,6 @@
   {
     "id": 4,
     "title": "Gaming"
-  },
-  {
-    "id": 5,
-    "title": "Home & Kitchen"
-  },
-  {
-    "id": 7,
-    "title": "Books & Magazines"
-  },
-  {
-    "id": 9,
-    "title": "Health & Fitness"
-  },
-  {
-    "id": 10,
-    "title": "Clothing & Accessories"
-  },
-  {
-    "id": 11,
-    "title": "Travel & Outdoor"
-  },
-  {
-    "id": 14,
-    "title": "Sports"
-  },
-  {
-    "id": 15,
-    "title": "Automotive & Industrial"
   }
 ]
 }
