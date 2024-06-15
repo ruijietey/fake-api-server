@@ -6,17 +6,14 @@
     "lastName": "Daniel",
     "email": "bianka_muller97@hotmail.com",
     "status": true,
-    "birthday": "2023-11-29T21:43:04.850Z",
+    "birthday": "2023-11-29T21:43:04.850Z"
   }
 ],
   "blogPosts":[
   {
     "id": 1,
     "title": "Et Aut Ut",
-    "content": "Reprehenderit ab et magni. Velit repellat ut voluptates cupiditate expedita excepturi aut dolor vero. Quisquam necessitatibus molestiae ratione magni. Quibusdam quam provident. Optio sed qui aut. Ad molestiae aut. Ipsa voluptatibus cumque non. Nam voluptatem pariatur perferendis quod. Animi aliquid possimus quia assumenda id consequatur hic quo. Nobis occaecati quas impedit aut aspernatur.",
-    "category": {
-      "id": 14
-    },
+    "content": "Reprehenderit ab et magni. Velit repellat ut voluptates cupiditate expedita excepturi aut dolor vero. Quisquam necessitatibus molestiae ratione magni. Quibusdam quam provident. Optio sed qui aut. Ad molestiae aut. Ipsa voluptatibus cumque non. Nam voluptatem pariatur perferendis quod. Animi aliquid possimus quia assumenda id consequatur hic quo. Nobis occaecati quas impedit aut aspernatur."
     "status": "rejected",
     "createdAt": "2023-06-17T03:52:40.697Z"
   },
@@ -24,9 +21,6 @@
     "id": 2,
     "title": "Quae Saepe Ad",
     "content": "Dolor voluptatem deserunt qui. Vel aut fugit voluptates et accusantium quasi distinctio saepe doloribus. Impedit veritatis voluptas et dolore quis nihil cum perspiciatis in. Qui eaque sit repellendus est porro velit odit a. Molestiae fugit et a sit molestias vero repellendus. Natus quidem dolorum. Asperiores dolorem natus pariatur. Eveniet non doloremque culpa minima rerum dolore labore. Qui explicabo voluptatem mollitia eos quod quidem vel aut. Consequatur est quia autem et facere.",
-    "category": {
-      "id": 7
-    },
     "status": "draft",
     "createdAt": "2023-09-19T10:06:11.707Z"
   }
